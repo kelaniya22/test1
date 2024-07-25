@@ -1,1 +1,6 @@
-jljhljlo
+OCP Cluster Admin Username
+kubeadmin
+OCP Cluster Admin Password
+hg9Kr-CapEc-gzjmc-E6n9K
+
+eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJJQk0gTWFya2V0cGxhY2UiLCJpYXQiOjE3MjE2OTEwMjYsImp0aSI6ImI2NDdlZDI0NDVlODRlY2M4ZjRkMTNmMWVhZTZiMGI0In0.97jAfAa0z4M72-uRlWEW2hnU7ND-lH95tuPHb5mLNdM
